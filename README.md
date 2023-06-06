@@ -13,7 +13,7 @@
 
 ## About me:
 -  :books: Hillel School student
--  :computer: I’m currently learning **Web3**
+-  :computer: I’m currently learning **PHP**
 -  :mailbox_with_mail: Reach me by [Email](mailto:kretsu.rus@gmail.com)
 -  :earth_americas: My speaking languages: :ukraine:Ukrainian (Native), :uk:English (Pre-intermidiate)
 
