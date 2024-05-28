@@ -12,7 +12,7 @@
 </div>
 
 ## About me:
--  :computer: I’m currently learning **PHP**
+-  :computer: **PHP** Developer
 -  :mailbox_with_mail: Reach me by [Email](mailto:kretsu.rus@gmail.com)
 -  :earth_americas: My speaking languages: :ukraine:Ukrainian (Native), :uk:English (Pre-intermediate)
 
