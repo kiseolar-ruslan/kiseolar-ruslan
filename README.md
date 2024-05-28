@@ -12,7 +12,6 @@
 </div>
 
 ## About me:
--  :books: Hillel School student
 -  :computer: I’m currently learning **PHP**
 -  :mailbox_with_mail: Reach me by [Email](mailto:kretsu.rus@gmail.com)
 -  :earth_americas: My speaking languages: :ukraine:Ukrainian (Native), :uk:English (Pre-intermediate)
@@ -23,7 +22,6 @@
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" title="php" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" title="mysql" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" title="laravel" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original-wordmark.svg" title="symfony" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" title="git" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" title="docker" width="40" height="40"/>&nbsp; 
